@@ -1,0 +1,10 @@
+segment,customers,share_pct,gross_sales,campaign_use
+Recent New Customers,23179,24.29,1462148.26,Second-purchase coupon
+Core / Mid-Value Customers,24071,25.23,2698268.4,General nurture / category offers
+Dormant Low Value,11959,12.53,523385.4,Low-cost reactivation only
+At-Risk High Spenders,11274,11.82,1589596.42,Win-back campaign
+High-Value New Customers,11081,11.61,4341746.66,Priority second-purchase campaign
+Big Spenders - One-Time Buyers,10943,11.47,4323961.85,Cross-sell / premium recommendation
+Recent Repeat Buyers,1518,1.59,452862.78,Loyalty campaign
+At-Risk Repeat Buyers,1314,1.38,402082.9,Win-back repeat buyers
+Champions,81,0.08,49500.57,VIP treatment
