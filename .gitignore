@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# dbt logs and artifacts
+logs/
+target/
+dbt_packages/
+dbt_modules/
+
+# Microsoft Office temporary / lock files
+~$*
+.~lock.*
